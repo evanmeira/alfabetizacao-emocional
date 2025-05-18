@@ -5,8 +5,6 @@
 
 > Uma plataforma inovadora que utiliza múltiplos agentes GenAI para auxiliar usuários a compreenderem e lidarem melhor com suas emoções através da análise de narrativas pessoais, reflexão guiada e sugestões de estratégias personalizadas.
 
-**🚀 Concorrendo à Bolsa Alura/IFAP! Ajude-nos a transformar essa ideia em realidade com o seu voto!**
-
 ## Sobre o Projeto
 
 Este projeto nasceu da ideia de utilizar o poder da inteligência artificial generativa para promover a alfabetização emocional de forma acessível e personalizada. Muitas pessoas enfrentam dificuldades em reconhecer, nomear, compreender e regular suas emoções, o que pode impactar negativamente sua saúde mental e seus relacionamentos.
